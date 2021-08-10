@@ -4,7 +4,7 @@
   </head>
   <body>
     <p>
-      <font size="10" face="arial" color="yellow">
+      <font size="10" face="arial" color="green">
         This is a formatted paragraph
       </font></p>
   </body>
