@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>HTMLStyling</title>
+  </head>
+  <body>
+    <p>
+      <font size="10" face="arial" color="red">
+        This is a formatted paragraph
+      </font></p>
+  </body>
+</html>
