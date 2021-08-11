@@ -6,10 +6,9 @@
     <p>
       <font size="10" face="arial" color="green">
         This is a formatted paragraph
-<<<<<<< HEAD
-	this is a heading
-=======
->>>>>>> 3a3b3519dcbed5e84f87144978d52c396fdd9d8c
+
+	this is a heading 2
+
       </font></p>
   </body>
 </html>
