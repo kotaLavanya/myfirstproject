@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>HTMLStyling</title>
+  </head>
+  <body>
+    <p>
+      <font size="20" face="arial" color="blue">
+        This is a formatted paragraph
+      </font></p>
+       <font size="20" face="arial" color="blue">
+        This is a formatted description
+      </font></p>
+    
+      
+  </body>
+</html>
